@@ -20,6 +20,10 @@ lib64
 
 # Installer logs
 pip-log.txt
+*~
+*.bak
+data/*
+work/*
 
 # Unit test / coverage reports
 .coverage
